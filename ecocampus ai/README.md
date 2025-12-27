@@ -10,6 +10,8 @@ View your app in AI Studio: https://ai.studio/apps/drive/1QkMZ2PI_SmwW7pmOKMCawD
 
 ## Run Locally
 
+Delyed Link of Project : https://teal-cascaron-1e245b.netlify.app/
+
 **Prerequisites:**  Node.js
 
 
