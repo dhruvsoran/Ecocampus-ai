@@ -1,0 +1,7 @@
+{
+  "name": "EcoCampus AI",
+  "description": "A smart sustainability assistant for educational institutions, providing data-driven insights on waste, energy, and water usage with an integrated AI chatbot.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
